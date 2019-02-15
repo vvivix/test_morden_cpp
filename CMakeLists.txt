@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(test_morden_cpp)
+project(test_modern_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
